@@ -278,7 +278,6 @@ The price must be manually specified as `limitPrice` for `LIMIT` order types, or
 
 For `RELATIVE` A/D orders, the price offset & cap can both be set to one of the following:
 * Top ask
-* Top bid
 * Orderbook mid price
 * Last trade price
 * Moving Average (configurable period, time frame, candle price)
